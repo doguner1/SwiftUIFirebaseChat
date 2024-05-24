@@ -44,6 +44,8 @@ Uygulamayı çalıştırmak ve kendi Firebase projenizle bağlamak için aşağ�
 ## Ekran Görüntüleri
 
 [Tüm ekran görüntülerini buradan görebilirsiniz.]
+(https://github.com/doguner1/GitImageData/blob/main/Ekran%20Resmi%202024-05-24%2006.09.20.png)
+
 
 ## Katkılar ve Geri Bildirim
 
