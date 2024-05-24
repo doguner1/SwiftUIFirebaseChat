@@ -93,8 +93,9 @@
                             ImagePicker(image: $image)
                         }
                         
-                        TextField("Deneme", text: $vm.chatText)
-                        
+                        TextField(" ", text: $vm.chatText)
+                            .background(.gray).opacity(0.8)
+                            .cornerRadius(40)
                         Button(action: {
                             vm.handleSend()
                             vm.count += 1

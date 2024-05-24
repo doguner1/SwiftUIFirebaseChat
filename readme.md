@@ -45,11 +45,23 @@ Uygulamayı çalıştırmak ve kendi Firebase projenizle bağlamak için aşağ�
 
 [Tüm ekran görüntülerini buradan görebilirsiniz.]
 
-![Ekran Görüntüsü](https://raw.githubusercontent.com/doguner1/GitImageData/main/Ekran%20Resmi%202024-05-24%2006.09.20.png)
+![Ekran Görüntüsü](https://github.com/doguner1/GitImageData/blob/main/SwiftUIFirebaseChat/Ekran%20Resmi%202024-05-24%2006.09.20.png?raw=true)
 
-![Ekran Görüntüsü](https://github.com/doguner1/GitImageData/blob/main/Ekran%20Resmi%202024-05-24%2006.19.16.png?raw=true)
+![Ekran Görüntüsü](https://github.com/doguner1/GitImageData/blob/main/SwiftUIFirebaseChat/Ekran%20Resmi%202024-05-24%2006.19.16.png?raw=true)
 
-![Ekran Görüntüsü](https://github.com/doguner1/GitImageData/blob/ae98974ae4138fd9c11c77b1072b89c376bbf222/Ekran%20Resmi%202024-05-24%2006.20.50.png?raw=true)
+![Ekran Görüntüsü](https://github.com/doguner1/GitImageData/blob/main/SwiftUIFirebaseChat/Ekran%20Resmi%202024-05-24%2006.20.50.png?raw=true)
+
+![Ekran Görüntüsü](https://github.com/doguner1/GitImageData/blob/main/SwiftUIFirebaseChat/Ekran%20Resmi%202024-05-24%2006.23.09.png?raw=true)
+--
+![Ekran Görüntüsü](https://github.com/doguner1/GitImageData/blob/main/SwiftUIFirebaseChat/Ekran%20Resmi%202024-05-24%2006.24.38.png?raw=true)
+
+![Ekran Görüntüsü](https://github.com/doguner1/GitImageData/blob/main/SwiftUIFirebaseChat/Ekran%20Resmi%202024-05-24%2006.25.24.png?raw=true)
+
+![Ekran Görüntüsü](https://github.com/doguner1/GitImageData/blob/main/SwiftUIFirebaseChat/Ekran%20Resmi%202024-05-24%2006.25.33.png?raw=true)
+
+![Ekran Görüntüsü](https://github.com/doguner1/GitImageData/blob/main/SwiftUIFirebaseChat/Ekran%20Resmi%202024-05-24%2006.29.31.png?raw=true)
+
+
 
 
 
